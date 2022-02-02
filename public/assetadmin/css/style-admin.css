@@ -1,0 +1,8 @@
+.flex-gap {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.flex-gap > div {
+  margin: 6px;
+}
